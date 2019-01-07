@@ -1,0 +1,66 @@
+.Ligne1 {
+  width: 100%;
+  height: 50px;
+}
+.carrévert {
+  width: 80%;
+  height: 50px;
+  background-color: #2ECC71;
+  float: left;
+}
+.carrébleu {
+    width: 20%;
+    height: 50px;
+    background-color: #2980B9;
+    float: right;
+}
+.Ligne2 {
+  width: 100%;
+  height: 140px;
+}
+.carrérouge {
+  width: 34%;
+  height: 140px;
+  background-color: #E74C3C;
+  float: left;
+}
+.carréorange {
+  width: 33%;
+  height: 70px;
+  background-color: #E67E22;
+  float: left;
+}
+.carrégris {
+  width: 33%;
+  height: 70px;
+  background-color: #95A5A6;
+  float: right;
+}
+.carréjaune {
+  width: 22%;
+  height: 70px;
+  background-color: #F39C12;
+  float: left;
+}
+.carréturquoise {
+  width: 22%;
+  height: 70px;
+  background-color: #16A085;
+  float: left;
+}
+.carréorangefoncé {
+  width: 22%;
+  height: 70px;
+  background-color: #D35400;
+  float: right;
+}
+.Ligne {
+  width: 100%;
+  height: 150px;
+}
+.carrébleufoncé {
+  width: 100%;
+  height: 150px;
+  background-color: #2C3E50;
+  float: left;
+}
